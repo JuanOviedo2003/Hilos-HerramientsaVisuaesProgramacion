@@ -1,0 +1,6 @@
+C:\Users\Estudiante\source\repos\Ejercicios de clase\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Estudiante\source\repos\Ejercicios de clase\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Estudiante\source\repos\Ejercicios de clase\Calculadora\Calculadora\obj\Debug\Calculadora.calculadorcita.resources
+C:\Users\Estudiante\source\repos\Ejercicios de clase\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Estudiante\source\repos\Ejercicios de clase\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Estudiante\source\repos\Ejercicios de clase\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
